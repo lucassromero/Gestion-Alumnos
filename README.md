@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gestión de Profesoras Particulares
 
 Aplicación web para gestionar alumnos, materias, contenidos, clases y materiales educativos.
@@ -140,3 +141,7 @@ npm run build
 - Materiales educativos.
 - Dashboard con datos reales.
 - Agenda.
+=======
+# Gestion-Alumnos
+Programa de gestión de alumnos y su progreso 
+>>>>>>> f869ec7d72cd3b2f1cc92fccbffbfc772e93734d
